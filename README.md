@@ -14,4 +14,4 @@ This dashboard delivers a unified view of guest behavior by segmenting customers
 
 - Age-based demographic groups (21–30, 31–45, etc.)
 
-These insights help hospitality teams better understand customer value, tailor marketing strategies, and enhance guest retention.
+*These insights help hospitality teams better understand customer value, tailor marketing strategies, and enhance guest retention.*

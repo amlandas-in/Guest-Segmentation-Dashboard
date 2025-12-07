@@ -1,7 +1,10 @@
 # 🏨 RFM-Based Guest Segmentation Dashboard (Tableau)
 📌 Short Details
 
+Guest segmentation using RFM metrics and Tableau visual analytics to uncover customer value tiers, booking behavior patterns, and demographic insights — enabling data-driven decision-making in hospitality.
+
 An interactive Tableau dashboard that performs RFM-based guest segmentation to analyze booking behavior and customer value. It visualizes recency, frequency, monetary trends, and demographic insights to help hospitality teams improve targeting, loyalty, and decision-making strategies.
+
 ---
 
 ## 🧾 Project Overview
@@ -15,6 +18,7 @@ Guest value tiers (VIPs, repeat stayers, first-time visitors)
 Age-based demographic groups (21–30, 31–45, etc.)
 
 *These insights empower hospitality leaders to tailor strategies that enhance retention and boost revenue.*
+
 ---
 
 ## 💡 Key Insights
@@ -36,6 +40,7 @@ Age Group Breakdown:
 21–30 years: 37.14% (Emerging audience)
 
 *These insights help drive personalized outreach, strategic marketing, and guest loyalty.*
+
 ---
 
 ## 📈 Visualizations Included

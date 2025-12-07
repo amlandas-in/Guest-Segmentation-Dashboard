@@ -33,11 +33,11 @@ This dashboard delivers a unified view of guest behavior by segmenting customers
 
 - Most Engaged Segment: VIP Guests
 
-- Age Group Breakdown:
+- **Age Group Breakdown:**
 
--- 31–45 years: 62.86% (Primary customer segment)
+  - 31–45 years: 62.86% (Primary customer segment)
 
--- 21–30 years: 37.14% (Emerging audience)
+  - 21–30 years: 37.14% (Emerging audience)
 
 *These insights help drive personalized outreach, strategic marketing, and guest loyalty.*
 

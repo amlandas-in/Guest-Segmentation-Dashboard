@@ -3,6 +3,7 @@ Guest segmentation using RFM metrics and Tableau visual analytics to uncover cus
 
 An interactive Tableau dashboard that performs RFM-based guest segmentation to analyze booking behavior and customer value. It visualizes recency, frequency, monetary trends, and demographic insights to help hospitality teams improve targeting, loyalty, and decision-making strategies.
 
+md
 
 ## 📊 Project Overview
 

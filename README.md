@@ -11,11 +11,11 @@ An interactive Tableau dashboard that performs RFM-based guest segmentation to a
 
 This dashboard delivers a unified view of guest behavior by segmenting customers into actionable groups and highlighting key patterns across:
 
-Booking frequency & spending behavior
+- Booking frequency & spending behavior
 
-Guest value tiers (VIPs, repeat stayers, first-time visitors)
+- Guest value tiers (VIPs, repeat stayers, first-time visitors)
 
-Age-based demographic groups (21–30, 31–45, etc.)
+- Age-based demographic groups (21–30, 31–45, etc.)
 
 *These insights empower hospitality leaders to tailor strategies that enhance retention and boost revenue.*
 
@@ -23,21 +23,21 @@ Age-based demographic groups (21–30, 31–45, etc.)
 
 ## 💡 Key Insights
 
-Total Booking Revenue: ₹1,642,500 from 115 bookings
+- Total Booking Revenue: ₹1,642,500 from 115 bookings
 
-Unique Guests: 41
+- Unique Guests: 41
 
-Avg. Spending per Booking: ₹40,061
+- Avg. Spending per Booking: ₹40,061
 
-Top Revenue Contributor: Occasional Stayers
+- Top Revenue Contributor: Occasional Stayers
 
-Most Engaged Segment: VIP Guests
+- Most Engaged Segment: VIP Guests
 
-Age Group Breakdown:
+- Age Group Breakdown:
 
-31–45 years: 62.86% (Primary customer segment)
+-- 31–45 years: 62.86% (Primary customer segment)
 
-21–30 years: 37.14% (Emerging audience)
+-- 21–30 years: 37.14% (Emerging audience)
 
 *These insights help drive personalized outreach, strategic marketing, and guest loyalty.*
 
@@ -45,12 +45,12 @@ Age Group Breakdown:
 
 ## 📈 Visualizations Included
 
-Treemap — Tier segmentation by revenue & frequency
+- Treemap — Tier segmentation by revenue & frequency
 
-Scatter Plot — Frequency vs. spending, color-coded by tier
+- Scatter Plot — Frequency vs. spending, color-coded by tier
 
-Pie Chart — Revenue distribution by age group
+- Pie Chart — Revenue distribution by age group
 
-Guest Table — ID, gender, tier, spend, visit frequency
+- Guest Table — ID, gender, tier, spend, visit frequency
 
-Unified Dashboard — All KPIs & visuals in one interactive view
+- Unified Dashboard — All KPIs & visuals in one interactive view

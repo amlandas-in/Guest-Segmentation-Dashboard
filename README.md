@@ -54,3 +54,5 @@ This dashboard delivers a unified view of guest behavior by segmenting customers
 - Guest Table — ID, gender, tier, spend, visit frequency
 
 - Unified Dashboard — All KPIs & visuals in one interactive view
+
+---

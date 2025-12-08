@@ -60,3 +60,31 @@ This dashboard delivers a unified view of guest behavior by segmenting customers
 ## 📊 Dashboard Preview
 
 ![image alt](https://github.com/amlandas-in/Guest-Segmentation-Dashboard/blob/1749aaffeb2db2a53e2d37bbcb5b613391c744dc/SereneValley_dashboard_preview.png)
+
+---
+
+## 🛠 Tools & Approach
+
+- Tableau for interactive dashboard development
+
+- Microsoft Excel for data cleaning and preparation
+
+- RFM Analysis to segment guests by value and engagement
+
+- Visual Analytics (Tree Map, Scatter Plot, Pie Chart)
+
+- Dashboard Design optimized for usability and insights
+
+---
+
+## 📌 Business Impact
+
+The dashboard enables resort teams to:
+
+- Quickly identify high-value and loyal guests
+
+- Understand demographic-driven spending patterns
+
+- Execute targeted, data-backed marketing strategies
+
+- Support strategic and operational decision-making

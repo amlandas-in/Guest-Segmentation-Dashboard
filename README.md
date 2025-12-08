@@ -56,3 +56,6 @@ This dashboard delivers a unified view of guest behavior by segmenting customers
 - Unified Dashboard — All KPIs & visuals in one interactive view
 
 ---
+
+### 📊 Dashboard Preview
+![Dashboard] (SereneValley_dashboard_preview.png)

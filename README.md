@@ -58,7 +58,7 @@ This dashboard delivers a unified view of guest behavior by segmenting customers
 
 ## 📊 Dashboard Preview
 
-![image alt](https://github.com/amlandas-in/Guest-Segmentation-Dashboard/blob/1749aaffeb2db2a53e2d37bbcb5b613391c744dc/SereneValley_dashboard_preview.png)
+![image alt](https://github.com/amlandas-in/Guest-Segmentation-Dashboard/blob/097b9fc3e85022b63ed75d52362b8f861af25ac6/assets/SereneValley_dashboard_preview.png)
 
 ---
 

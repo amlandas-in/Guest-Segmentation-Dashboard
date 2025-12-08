@@ -58,4 +58,4 @@ This dashboard delivers a unified view of guest behavior by segmenting customers
 ---
 
 ### 📊 Dashboard Preview
-![Dashboard] (SereneValley_dashboard_preview.png)
+![image alt] (SereneValley_dashboard_preview.png)

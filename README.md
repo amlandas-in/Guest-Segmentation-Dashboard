@@ -77,12 +77,12 @@ This dashboard delivers a unified view of guest behavior by segmenting customers
 
 ## 📌 Business Impact
 
-The dashboard enables resort teams to:
+This dashboard empowers hospitality teams to:
 
-- Quickly identify high-value and loyal guests
+- Identify & reward high-value loyal guests to increase repeat bookings
 
-- Understand demographic-driven spending patterns
+- Analyze spending behavior across demographic groups for better targeting
 
-- Execute targeted, data-backed marketing strategies
+- Run personalized, data-driven marketing campaigns that improve retention
 
-- Support strategic and operational decision-making
+- Enhance strategic & operational decision-making using clear visual insights

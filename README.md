@@ -62,17 +62,16 @@ This dashboard delivers a unified view of guest behavior by segmenting customers
 
 ---
 
-## 🛠 Tools & Approach
+## 🛠 Tools & Techniques
 
-- Tableau for interactive dashboard development
+- Tableau — Interactive dashboard development & visual analytics
+           (Treemap, Scatter Plot, Pie Chart, unified KPIs view)
 
-- Microsoft Excel for data cleaning and preparation
+- Microsoft Excel — Data cleaning, preparation & RFM score calculation
 
-- RFM Analysis to segment guests by value and engagement
+- RFM Analysis — Customer value segmentation using Recency, Frequency & Monetary metrics
 
-- Visual Analytics (Tree Map, Scatter Plot, Pie Chart)
-
-- Dashboard Design optimized for usability and insights
+- Dashboard Design — Optimized for usability, interpretability, and strategic insights
 
 ---
 
